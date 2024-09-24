@@ -1,2 +1,3 @@
 # recipe
-this is our recipe page
+This is our recipe page
+This include various recipes.
